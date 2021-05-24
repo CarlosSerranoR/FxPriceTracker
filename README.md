@@ -2,4 +2,11 @@
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Install the application:
+
+```
+npm i
+```
+
+Run `ng serve`
+Navigate to `http://localhost:4200/prices`
